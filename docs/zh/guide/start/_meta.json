@@ -6,7 +6,7 @@
   },
   {
     "type": "file",
-    "name": "getting-started",
-    "label": "快速开始"
+    "name": "install-rust",
+    "label": "安装Rust"
   }
 ]

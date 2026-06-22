@@ -3,42 +3,30 @@ description: Rspress 入门模板首页，包含指南、MDX、搜索、AI、SSG
 pageType: home
 
 hero:
-  name: 我的站点
-  text: 一个很酷的网站！
-  tagline: 这是网站的副标题
+  name: 程序员轻叶的Rust学习记录
+  text: 记录我的Rust学习之旅
+  tagline: 探索安全、并发、高效的系统级编程语言
   actions:
     - theme: brand
       text: 快速开始
       link: /zh/guide/start/introduction
     - theme: alt
       text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/
   image:
     src: /rspress-icon.png
     alt: Logo
 features:
-  - title: 极速构建
-    details: 核心编译模块基于 Rust 前端工具链，提供更极致的开发体验。
-    icon: 🏃🏻‍♀️
-    link: /zh/guide/start/introduction
-  - title: 支持 MDX 内容编写
-    details: MDX 是一种强大的内容编写方式，可以在 Markdown 中使用 React 组件。
-    icon: 📦
-    link: /zh/guide/use-mdx/components
-  - title: 内置全文搜索
-    details: 构建时自动生成全文搜索索引，提供开箱即用的全文搜索能力。
-    icon: 🎨
-    link: https://rspress.rs/zh/guide/advanced/custom-search
-  - title: AI 友好
-    details: 通过 SSG-MD 生成符合 llms.txt 规范的 llms.txt 和 Markdown 文件，让大语言模型更容易理解和使用你的文档。
-    icon: 🤖
-    link: https://rspress.rs/zh/guide/basic/ssg-md
-  - title: 静态站点生成
-    details: 在生产环境中自动构建为静态 HTML 文件，可以轻松部署到任意位置。
-    icon: 🌈
-    link: https://rspress.rs/zh/guide/basic/ssg
-  - title: 提供多种自定义能力
-    details: 通过扩展机制，你可以轻松扩展主题 UI 和构建流程。
+  - title: 基础语法
+    details: 学习Rust的所有权机制、生命周期、借用等核心概念。
+    icon: 🦀
+    link: /zh/basic/
+  - title: 重难点突破
+    details: 深入理解并发编程、宏、不安全代码等高级特性。
     icon: 🔥
-    link: https://rspress.rs/zh/guide/basic/custom-theme
+    link: /zh/advanced/
+  - title: 实战项目
+    details: 通过个人项目和开源项目实践，巩固所学知识。
+    icon: 🚀
+    link: /zh/projects/
 ---

@@ -5,12 +5,35 @@
     "activeMatch": "/guide/"
   },
   {
-    "text": "API",
-    "link": "/api/",
-    "activeMatch": "/api/"
+    "text": "基础语法",
+    "link": "/basic/",
+    "activeMatch": "/basic/"
   },
   {
-    "text": "文档",
-    "link": "https://rspress.rs/"
+    "text": "重难点",
+    "link": "/advanced/",
+    "activeMatch": "/advanced/"
+  },
+  {
+    "text": "库与框架",
+    "link": "/libraries/",
+    "activeMatch": "/libraries/"
+  },
+  {
+    "text": "项目",
+    "items": [
+      {
+        "text": "个人项目",
+        "link": "/projects/personal/"
+      },
+      {
+        "text": "开源项目",
+        "link": "/projects/open-source/"
+      }
+    ]
+  },
+  {
+    "text": "官方文档",
+    "link": "https://doc.rust-lang.org/book/"
   }
 ]
