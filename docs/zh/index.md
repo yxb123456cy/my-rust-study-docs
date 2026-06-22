@@ -20,7 +20,7 @@ features:
   - title: 基础语法
     details: 学习Rust的所有权机制、生命周期、借用等核心概念。
     icon: 🦀
-    link: /zh/basic/
+    link: /zh/basic/chapter-1/variables
   - title: 重难点突破
     details: 深入理解并发编程、宏、不安全代码等高级特性。
     icon: 🔥

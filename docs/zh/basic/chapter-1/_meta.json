@@ -1,0 +1,12 @@
+[
+  {
+    "type": "file",
+    "name": "variables",
+    "label": "使用 let 与 let mut 定义变量"
+  },
+  {
+    "type": "file",
+    "name": "constants",
+    "label": "使用 const 定义常量"
+  }
+]
