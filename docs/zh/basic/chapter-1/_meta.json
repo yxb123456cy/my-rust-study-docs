@@ -8,5 +8,25 @@
     "type": "file",
     "name": "constants",
     "label": "使用 const 定义常量"
+  },
+  {
+    "type": "file",
+    "name": "shadowing",
+    "label": "变量遮蔽 (Shadowing)"
+  },
+  {
+    "type": "file",
+    "name": "scalar-types",
+    "label": "标量类型 (基本数据类型)"
+  },
+  {
+    "type": "file",
+    "name": "tuple",
+    "label": "复合类型：元组 (Tuple)"
+  },
+  {
+    "type": "file",
+    "name": "array",
+    "label": "复合类型：数组 (Array)"
   }
 ]

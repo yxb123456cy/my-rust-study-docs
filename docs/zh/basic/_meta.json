@@ -3,5 +3,10 @@
     "type": "dir",
     "name": "chapter-1",
     "label": "第一章：Rust中的变量与数据类型"
+  },
+  {
+    "type": "dir",
+    "name": "chapter-2",
+    "label": "第二章：Rust中的函数与控制流"
   }
 ]
